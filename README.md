@@ -1,4 +1,4 @@
-1st run **Plan Details**
+**1st run **Plan Details**
 http://localhost:7272/PlanDetails/1
 
 2nd Run **FriendDetails**
@@ -10,8 +10,8 @@ http://localhost:7474/CustomerDetails/viewProfile/2222
 4th run **UI**
 http://localhost:9898/Ui/loginCustomer
 
-**All four application has different port number & appliaion context .**
-Always check
+**All four applications has different port numbers & appliaion contexts.**
+**Always check
 database credentials 
 application context
-pom.xml & versions 
+pom.xml & versions.**
