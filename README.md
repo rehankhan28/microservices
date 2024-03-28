@@ -26,8 +26,8 @@ In the Controller class, use annotation
     use method 
     
     **ResponseEntity<List<Long>> re = restTemplate.exchange(FRIEND_URL, HttpMethod.GET, null, typeRef, phoneNumber);**
-    
-![Rest Template](https://github.com/rehankhan28/microservices/assets/27416197/1968da34-c844-41c3-af32-26df5548710c)
+   
+   ![Rest Template](https://github.com/rehankhan28/microservices/assets/27416197/0777a43f-542f-4127-a32c-6072d3e7a6fb)
 
 
 **4th run UI**
